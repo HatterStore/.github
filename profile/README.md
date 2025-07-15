@@ -25,7 +25,7 @@ Mais do que serviços, oferecemos uma parceria para construir algo que represent
 2. **Planejamento Personalizado**: Desenvolvemos um plano sob medida para o seu projeto.
 3. **Execução e Suporte**: Construímos e entregamos sua solução, com suporte contínuo para garantir o sucesso.
 
-Visite nosso servidor no [discord](https://discord.gg/HPNY9zR3us) ou entre em contato pelo [e-mail](renandelfino@gmail.com) para começar sua jornada com a Hatter Store!
+Visite nosso servidor no [discord](https://discord.gg/HPNY9zR3us) ou entre em contato pelo [e-mail](mailto:renandelfino@gmail.com) para começar sua jornada com a Hatter Store!
 
 ## Aviso Legal
 Este repositório e todos os softwares, scripts e serviços da Hatter Store são **protegidos por direitos autorais**. Nenhuma permissão é concedida para copiar, modificar, distribuir ou usar nosso software sem autorização expressa por escrito da Hatter Store. Para mais informações, entre em contato conosco.
